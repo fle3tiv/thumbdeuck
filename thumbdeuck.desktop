@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=ThumbDEuck
+Comment=ThumbDEuck 1._
+Exec=/usr/local/bin/thumbdeuck-session
+Type=Application
+DesktopNames=ThumbDEuck
